@@ -1,7 +1,7 @@
 # embedded_C
 A repo of useful scripts and tricks in C
 
-author: Gunnar Pope:wq
+author: Gunnar Pope
 
 ## A Circular Queue for RTOS
 Ever had a problem of data overflow when incoming data speeds are faster than your processing speeds in a real time operating system (RTOS)?
